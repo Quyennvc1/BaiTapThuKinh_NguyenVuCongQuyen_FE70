@@ -1,0 +1,12 @@
+.model-wrapper {
+  position: relative;
+}
+
+.model-glass {
+  position: absolute;
+  z-index: 1;
+  top: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 200px;
+}
